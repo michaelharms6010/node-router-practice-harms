@@ -13,7 +13,7 @@ A gremlin has deleted vital parts of the quotes api. We need you to put it back 
 ### Spec:
 
 Working Deployments: 
-https://tl-hours-mike-quotes.herokuapp.com   
+https://quotes-gremlin.herokuapp.com   
 
 ```
 Endpoints:
